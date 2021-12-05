@@ -1,0 +1,35 @@
+{
+  "name": "bestws",
+  "version": "1.0.0",
+  "description": "Best WebSocket library, long gone are the days of the idiotic Socket.io",
+  "main": "src/export.js",
+  "keywords": [
+    "socket",
+    "ws",
+    "server",
+    "ws server",
+    "WebSocket",
+    "WebSocket server",
+    "web",
+    "socket.io",
+    "io",
+    "fast",
+    "minimal",
+    "lightweight",
+    "binary",
+    "easy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sopur/BestWS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sopur/BestWS/issues"
+  },
+  "homepage": "https://github.com/Sopur/BestWS",
+  "author": "Sopur",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.3.0"
+  }
+}
