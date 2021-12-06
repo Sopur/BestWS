@@ -1,6 +1,6 @@
 {
   "name": "bestws",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Best WebSocket library, long gone are the days of the idiotic Socket.io",
   "main": "src/export.js",
   "keywords": [
